@@ -4,6 +4,8 @@ ANCHE SEE TUTTI BALLANO TRANNE TEE
 
 Tema personalizzato per i sistemi della famiglia Nintendo 3DS basato su uno dei cantanti italiani più amati
 
+Creato usando [Usagi3DS](https://github.com/usagirei/3DS-Theme-Editor)
+
 <br>
 
 Crediti: 
