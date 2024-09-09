@@ -2,7 +2,7 @@
 
 ANCHE SEE TUTTI BALLANO TRANNE TEE
 
-Tema personalizzato per i sistemi della famiglia Nintendo 3DS basato su uno dei cantanti italiani più amati
+Tema personalizzato per i sistemi della famiglia Nintendo 3DS dedicato ad uno dei cantanti italiani più famosi
 
 <br>
 
